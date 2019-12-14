@@ -1,0 +1,30 @@
+<style type="text/css">
+#centerLayer { width: 55%; padding: 15px;}
+html { font-family: Arial;background: #E6E6FA;}
+p { text-align: left; font-size: 14; width: 800px; margin-left: 10%; color:black}
+  .pickch{ float: right; 
+    margin-left:25px;
+    margin-right:15px;} 
+ .pick{float: right; 
+    margin-left:25px;
+    margin-right:10px;} 
+  .dark{float: right; 
+    margin-left:5px;
+    margin-right:115px;}
+  .sea{float: left; 
+    margin-left:240px;
+    margin-right:25px;}
+  .dea{float: right; 
+    margin-left:25px;
+    margin-right:210px;}
+ .cent { text-align: center;}
+ .prev { text-align: left; 
+    margin-left:240px;}
+ .bor { text-align: left; 
+    margin-left:165px;}
+h1 { font-size: 32px; text-align: center; width: 800px; margin-left: 20%; color: #B22222}
+h2 { font-size: 24px; text-align: center; width: 800px; margin-left: 20%}
+h3 { font-size: 28px; text-align: center; width: 800px; margin-left: 20%; color: #8B0000}
+h4 { font-size: 22px; text-align: center; width: 800px; margin-left: 20%}
+h5, h6 { font-size: 18px; text-align: left; margin-left:145px}
+</style>
